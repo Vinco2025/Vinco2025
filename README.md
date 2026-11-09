@@ -1,5 +1,9 @@
-<h1 align="center">Hi I'm Kevin</h1>                         
+<h1 align="center">Hi I'm Kevin</h1>                      
 <h3 align="center">An Aspiring Backend Developer with a little bit of Frontend Knowledge</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vinco2025&color=007ec6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 -  I’m currently working on [WebDev_Projects](https://github.com/Vinco2025/WebDev_Projects.git)
 
@@ -7,7 +11,7 @@
 
 -  All of my projects are available at [https://vinco2025.github.io](https://vinco2025.github.io)
 
-<h3 align="left">Connect with me:</h3>          
+<h3 align="left">Connect with me:</h3>         
 <p align="left">
 </p>
 
@@ -67,33 +71,3 @@
 </a>
 
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
